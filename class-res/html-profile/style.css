@@ -9,18 +9,8 @@
   font-family: 'Noto Sans TC', sans-serif;
 }
 
-h2{
+h1, h2, h3, h4, h5, h6, h7{
   font-family: 'Product Sans';
-  font-size: 30px;
-  display: block;
-}
-
-.profile-img{
-  border-radius: 50%;
-  margin: 16px;
-  height: 200px;
-  width: 200px;
-  display: block;
 }
 
 .profile-title{
